@@ -5,5 +5,5 @@ Ambient Light Sensor TSL2561 is a TWI based sensor. I made a cheap pyranometer b
   1. Atmega 1284p
   2. Atmega 8L
   
-# Libraries included
+# Libraries used
   1. UART_1.h - A UART library for USART1 of Atmgea 1284p
